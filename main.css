@@ -1,0 +1,114 @@
+#logo {
+  font-family: "Helvetica Neue",Arial,sans-serif;
+  font-size: 50px;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  display: inline-block;
+}
+#logo-subtitle {
+  font-family: "Libre Barcode 39 Text",cursive;
+  font-size: 35px;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: .0em;
+}
+
+p  {
+  color: black;
+  font-family: Helvetica;
+  font-size: 100%;
+}
+
+h3  {
+  color: black;
+  font-family: Helvetica;
+  font-size: 100%;
+}
+
+p {
+  border: 0px solid white;
+  padding-right: 17px;
+
+  padding-left: 17px;
+}
+
+#logo {
+  border: 0px solid white;
+  padding: 10px;
+}
+
+h3 {
+  border: 0px solid white;
+  padding-right: 17px;
+
+  padding-left: 17px;
+}
+#logo {
+  border: 0px solid white;
+  margin: 10px;
+}
+
+img {
+  display: block;
+  max-width: 50%;
+}
+
+img {
+  height: 360px;
+  width: 240px;
+  float:inherit;
+  padding right: : 100px
+  padding left: 100px
+  margin: 0 1.5% ;
+}
+
+div {
+float: left;
+width: 50%;
+}
+
+section {
+  clear: right
+  Padding: 4px
+  max-width: 30%
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  color: #9c9c9c;
+  font-family:"Helvetica Neue",Arial,sans-serif;
+  font-size: 75%;
+  font-weight: 400;
+}
+li {
+  float: right;
+  display: inline;
+  color: #878787
+}
+li a {
+display: block;
+text-align: center;
+padding: 14px 16px;
+background-color: none
+text-decoration: none;
+}
+
+
+  /* Change the link color on hover */
+li a:hover {
+ color: black;
+}
+.active {
+  color: black;
+}
+
+
+body
+display:block;
+text-align: center
