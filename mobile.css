@@ -1,19 +1,4 @@
 
-
-/* @media screen and (max-width: 1500px) {
-  p {
-    max-width: 50%
-  }
-
-  img {
-    max-width: 50%;
-
-} */
-
-img {
-  max-width: 50%;
-}
-
 @media screen and (max-width: 1024px){
   p {
     max-width: 100%;
@@ -25,10 +10,15 @@ img {
   img {
     max-width: 50%
   }
-
-  ul {
-    background-color: none
+  li a {
+    background-color: white;
   }
+
+  #menuButton {
+    display: none;
+
+}
+
 
 
 
@@ -51,13 +41,6 @@ img {
     max-width: 100%
   }
 
-
-  /* li
-  {
-    background-color: none
-
-  } */
-
   li {
     display: block;
     width: 100%;
@@ -78,7 +61,11 @@ img {
     padding: 12px;
 }
 
+nav {
+  Display: block;
+  }
 
+}
 
 @media screen and (max-width: 470px){
   p {
