@@ -38,6 +38,12 @@ body {
 
 }
 
+  #menuButton:hover,
+  #menuButton:active,
+  #menuButton:focus, {
+    color: grey;
+}
+
 ul {
   list-style-type: none;
   overflow: hidden;
@@ -73,6 +79,8 @@ li a:active,
 li a:focus {
  color: black;
 }
+
+
 
 p  {
   color: black;
